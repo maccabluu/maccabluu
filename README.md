@@ -1,16 +1,50 @@
-## Hi there 👋
+<img width="1254" height="1254" alt="BluStudio-under-1MB" src="https://github.com/user-attachments/assets/ef8426b0-19ec-4bfa-ae4f-2cc34cf4f00b" />
 
-<!--
-**maccabluu/maccabluu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🔵 BluStudio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Create • Innovate • Play
+
+Welcome to BluStudio.
+
+We are an independent game and software development studio creating games, emulators, Android apps and original projects.
+
+🎮 Our Projects
+
+BluBox360
+
+Experimental Xbox 360 emulation project for Android. Currently in alpha development.
+
+View BluBox360
+
+BluPS2
+
+PlayStation 2 emulation and development project.
+
+View BluPS2
+
+Wam Bam Thank U Mam
+
+An original mobile game developed by BluStudio.
+
+View the project
+
+BluStream
+
+A BluStudio media and streaming application project.
+
+View BluStream
+
+💙 About BluStudio
+
+BluStudio develops original games, software and experimental emulation projects.
+
+Our goal is simple:
+
+Create • Innovate • Play
+
+🚧 Currently in development
+
+Several BluStudio projects are in early development or alpha stages. Expect regular improvements as development continues.
+
+© 2026 BluStudio
