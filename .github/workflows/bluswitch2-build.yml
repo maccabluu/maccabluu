@@ -24,9 +24,10 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y --no-install-recommends glslang-tools ninja-build python3 pkg-config ccache
           glslangValidator --version
-      - uses: android-actions/setup-android@v3
-      - name: Install Android SDK, NDK and CMake
+      - name: Install Android SDK, NDK and CMake using runner SDK
         run: |
+          echo "SDK: $ANDROID_SDK_ROOT"
+          command -v sdkmanager
           yes | sdkmanager --licenses >/dev/null || true
           sdkmanager 'platforms;android-36' 'build-tools;36.0.0' 'ndk;28.2.13676358' 'cmake;3.31.5' 'platform-tools'
       - name: Fetch GPL-licensed Switch 2 Android engine
